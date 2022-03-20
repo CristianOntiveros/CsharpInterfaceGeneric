@@ -1,0 +1,15 @@
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.csproj.AssemblyReference.cache
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.AssemblyInfoInputs.cache
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.AssemblyInfo.cs
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.csproj.CoreCompileInputs.cache
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\bin\Debug\net6.0\GenericsInterface.exe
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\bin\Debug\net6.0\GenericsInterface.deps.json
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\bin\Debug\net6.0\GenericsInterface.runtimeconfig.json
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\bin\Debug\net6.0\GenericsInterface.dll
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\bin\Debug\net6.0\GenericsInterface.pdb
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.dll
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\refint\GenericsInterface.dll
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.pdb
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\GenericsInterface.genruntimeconfig.cache
+D:\ProgramsCsharp\GenericsInterface\GenericsInterface\obj\Debug\net6.0\ref\GenericsInterface.dll
